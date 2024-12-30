@@ -73,7 +73,7 @@ While no exact solutions currently satisfy all the identified needs, there are a
 
 ---
 
-### Tools and Pre-requisites (for Hosting)
+### Tools and Pre-requisites 
 - **PaaS Solutions**: Cloudflare for enhanced performance and security.
 - **Domain Registration**: A unique domain name for brand visibility.
 - **Database Hosting**: Google Cloud or AWS for reliable database solutions.
@@ -81,5 +81,5 @@ While no exact solutions currently satisfy all the identified needs, there are a
 
 ---
 
-### Acknowledgements (Optional)
+### Acknowledgements 
 This project draws inspiration from the intersection of tradition and technology, and aims to provide couples with a meaningful yet modern way to celebrate their love. We thank the innovators in the digital space who inspire our efforts to enhance the wedding experience.
